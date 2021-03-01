@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Options, Context, Popup Menu App</string>
+    <string name="textViewText">Long press on any item in below ListView to show the Context Menu. Click on each item in
+        Context Menu to show Toast Message. Click on action overflow button in Action Bar to show Options Menu.
+        Click on any item in Options Menu to display a Toast message
+    </string>
+    <string name="buttonText">Click here to show Popup Menu. Click on any item in Popup Menu to display Toast.</string>
+</resources>
